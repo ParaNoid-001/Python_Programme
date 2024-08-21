@@ -1,0 +1,16 @@
+name=input("Enter your name: ")
+print(name)
+print(type(name))
+num=int(input("Enter your name: "))
+print(name)
+print(type(name))
+var1=10
+print(var1)
+print(type(var1))
+a=var1
+print(a)
+print(type(a))
+print(float(var1))
+byte=bytes([10,20,17])
+print(byte)
+print(type(byte))
